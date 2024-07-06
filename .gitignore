@@ -1,0 +1,7 @@
+.idea/
+__pycache__
+*.pyc
+pp/__pycache__/settings.cpython-310.pyc
+*.pyo
+db.sqlite3
+
